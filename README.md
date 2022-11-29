@@ -1,4 +1,4 @@
-# drawing-dromedar
+# Drawing Dromedar
 ## a css grid based drawing tool with funky effects
 
 ![Demo Drawing Dromedar](/DrawingDromedar.gif)
